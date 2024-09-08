@@ -1,4 +1,4 @@
-.card{
+/* .card{
     padding: 1em;
     width: 33%;
     background-color: #f9fad2;
@@ -10,6 +10,16 @@
     margin-top: 3em;
     justify-content: space-around;
     column-gap: 1em;
+} */
+
+header{
+    z-index: 9999;
+}
+
+
+
+main{
+    margin-top: 10em;   
 }
 .card-title{
     margin-bottom: 1em;
